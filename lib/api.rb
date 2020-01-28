@@ -1,0 +1,3 @@
+class Pokemon::API
+    
+end
